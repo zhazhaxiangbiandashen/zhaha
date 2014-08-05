@@ -6,4 +6,7 @@ for(i=0;i<100i=++;)
 
 }
 /////we added
+we added
+we added
+we added
 }
